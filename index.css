@@ -41,8 +41,9 @@ button {
 }
 
 .content{
-    max-width: 300px;
-    margin: 100px  auto;
+    max-width: 80%;
+    max-height: 50%;
+    margin: 45%  auto;
     background-color: slateblue;
     padding: 10px;
     border: solid white;
